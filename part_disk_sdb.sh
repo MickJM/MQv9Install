@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+##
 function createPartitions() {
     #
     # Partition disk 
