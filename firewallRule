@@ -1,0 +1,4 @@
+firewall-cmd --list-port
+firewall-cmd --zone=public --add-port=1414/tcp --permanent
+firewall-cmd --reload
+
